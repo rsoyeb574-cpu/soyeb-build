@@ -1,0 +1,11 @@
+{
+  "name": "Soyeb BuildDoc",
+  "description": "Premium AI-powered cloud media hosting and smart gallery sharing platform with cinematic previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
